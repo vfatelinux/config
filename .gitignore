@@ -1,0 +1,13 @@
+# First, ignore everything
+*
+# Now, whitelist anything that's a directory
+#!*/
+!.gitignore
+!.bashrc
+!.vimrc
+!.bash_alias
+!.gitconfig*
+!.profile
+!.minttyrc
+!.tmux.conf
+!/config-bak
